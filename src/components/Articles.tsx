@@ -20,21 +20,21 @@ interface BasicArticleProps{
 const artA : BasicArticleProps={
     title : "Labradorite",
     desc: "Pierre de protection....",
-    img:"/medias/labradorite.jpg",
+    img:"./medias/labradorite.jpg",
     price:"12$"
 };
 
 const artB : BasicArticleProps={
     title : "Malachite",
     desc: "Pierre de protection....",
-    img:"/medias/malachite.jpg",
+    img:"./medias/malachite.jpg",
     price:"12$"
 };
 
 const artC : BasicArticleProps={
     title : "Fluorite",
     desc: "Pierre de protection....",
-    img:"/medias/fluorite.jpg",
+    img:"./medias/fluorite.jpg",
     price:"12$"
 };
 
