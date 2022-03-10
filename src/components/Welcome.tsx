@@ -38,26 +38,31 @@ const Welcome = () => {
                 }}
             >
                 <Grid container spacing={2}>
-                    <Grid item xs={4}>
+                    <Grid item xs={12} md={4}  >
                         <TungstenIcon/>
                         <h3>Conseils en lithothérapie et aromathérapie</h3>
                         <p>Un doute ? Besoin de conseils ? Nous déterminerons pour vous les solutions selon vos besoins et votre situation.</p>
                     </Grid>
-                    <Grid item xs={4}>
+                    <Grid item xs={12} md={4}>
                         <CoPresentIcon/>
                         <h3>Praticienne en thérapie comportementale</h3>
                         <p>Règlons vos conflits intérieurs et avancez dans une meilleure direction</p>
                     </Grid>
-                    <Grid item xs={4}>
+                    <Grid item xs={12} md={4}>
                         <AutoGraphIcon/>
                         <h3>Coaching</h3>
                         <p>L'impression de faire du sur place, besoin de se développer ? Le coaching vous permettra de devenir une meilleure version de vous même</p>
                     </Grid>
                 </Grid>
             </Box>
-            
-            <ContactInformation/>
-            <MapLocation/>
+            <Grid container>
+                <Grid item xs={12}>
+                    <ContactInformation/>
+                </Grid>
+                <Grid item xs={12}>
+                    <MapLocation/>
+                </Grid>
+            </Grid>
             <Footer/>
         </>
     );

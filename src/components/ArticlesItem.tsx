@@ -18,8 +18,8 @@ interface BasicArticleProps{
 const ArticlesItem = (props: BasicArticleProps) => {
     return(
         <>
-            <Grid item xs={3}>
-                <Card sx={{ maxWidth: 300,marginTop:5,marginLeft:5}}>
+            <Grid item xs={12} md={3}>
+                <Card sx={{ maxWidth: 300,marginTop:5,marginLeft:5, minWidth:200}}>
                     <CardMedia
                         component="img"
                         height="200"

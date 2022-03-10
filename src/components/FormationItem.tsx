@@ -17,8 +17,8 @@ const FormationItem = (props : BasicFormProps) => {
 
     return(
         <>
-            <Grid item xs={3}>
-                <Card sx={{ maxWidth: 345,marginTop:5,marginLeft:5}}>
+            <Grid item xs={12} md={3}>
+                <Card sx={{ maxWidth: 345}}>
                     <CardMedia
                         component="img"
                         height="280"
