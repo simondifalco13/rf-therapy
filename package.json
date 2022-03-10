@@ -1,10 +1,10 @@
 {
-  "homepage": "https://simondifalco13.github.io/rf-therapy",
+  "homepage": "https://simondifalco13.github.io/rf-therapy/",
   "name": "rf-therapy",
   
   "version": "0.1.0",
   
-  "private": false,
+  "private": true,
   
   "dependencies": {
   
