@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rf-therapy/static/css/main.334de456.css",
-    "main.js": "/rf-therapy/static/js/main.6d2aa5f1.js",
-    "static/js/787.e70827b1.chunk.js": "/rf-therapy/static/js/787.e70827b1.chunk.js",
-    "index.html": "/rf-therapy/index.html",
-    "main.334de456.css.map": "/rf-therapy/static/css/main.334de456.css.map",
-    "main.6d2aa5f1.js.map": "/rf-therapy/static/js/main.6d2aa5f1.js.map",
-    "787.e70827b1.chunk.js.map": "/rf-therapy/static/js/787.e70827b1.chunk.js.map"
+    "main.css": "/static/css/main.334de456.css",
+    "main.js": "/static/js/main.22531312.js",
+    "static/js/787.e70827b1.chunk.js": "/static/js/787.e70827b1.chunk.js",
+    "index.html": "/index.html",
+    "main.334de456.css.map": "/static/css/main.334de456.css.map",
+    "main.22531312.js.map": "/static/js/main.22531312.js.map",
+    "787.e70827b1.chunk.js.map": "/static/js/787.e70827b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.334de456.css",
-    "static/js/main.6d2aa5f1.js"
+    "static/js/main.22531312.js"
   ]
 }
